@@ -1,0 +1,52 @@
+const HolidaysQuestions:[
+    {
+        "question": "Which holiday marks the end of Ramadan?",
+        "options": ["Eid al-Adha (عید الاضحی)", "Mawlid al-Nabi (مولد النبی)", "Laylat al-Qadr (لیلة القدر)", "Eid al-Fitr (عید الفطر)"],
+        "correct_option": "Eid al-Fitr (عید الفطر)"
+    },
+    {
+        "question": "During which holiday do Muslims perform the Hajj pilgrimage?",
+        "options": ["Eid al-Fitr (عید الفطر)", "Mawlid al-Nabi (مولد النبی)", "Laylat al-Qadr (لیلة القدر)", "Eid al-Adha (عید الاضحی)"],
+        "correct_option": "Eid al-Adha (عید الاضحی)"
+    },
+    {
+        "question": "Which holiday commemorates the birth of Prophet Muhammad?",
+        "options": ["Eid al-Adha (عید الاضحی)", "Eid al-Fitr (عید الفطر)", "Laylat al-Qadr (لیلة القدر)", "Mawlid al-Nabi (مولد النبی)"],
+        "correct_option": "Mawlid al-Nabi (مولد النبی)"
+    },
+    {
+        "question": "Which night is considered the holiest night of the year in Islam?",
+        "options": ["Eid al-Adha (عید الاضحی)", "Eid al-Fitr (عید الفطر)", "Mawlid al-Nabi (مولد النبی)", "Laylat al-Qadr (لیلة القدر)"],
+        "correct_option": "Laylat al-Qadr (لیلة القدر)"
+    },
+    {
+        "question": "Which holiday is known as the Festival of Sacrifice?",
+        "options": ["Mawlid al-Nabi (مولد النبی)", "Laylat al-Qadr (لیلة القدر)", "Eid al-Fitr (عید الفطر)", "Eid al-Adha (عید الاضحی)"],
+        "correct_option": "Eid al-Adha (عید الاضحی)"
+    },
+    {
+        "question": "During which holiday do Muslims fast from dawn until dusk?",
+        "options": ["Eid al-Fitr (عید الفطر)", "Mawlid al-Nabi (مولد النبی)", "Laylat al-Qadr (لیلة القدر)", "Ramadan (رمضان)"],
+        "correct_option": "Ramadan (رمضان)"
+    },
+    {
+        "question": "Which holiday marks the beginning of the Islamic lunar calendar year?",
+        "options": ["Eid al-Adha (عید الاضحی)", "Eid al-Fitr (عید الفطر)", "Laylat al-Qadr (لیلة القدر)", "Muharram (محرم)"],
+        "correct_option": "Muharram (محرم)"
+    },
+    {
+        "question": "During which holiday do Muslims gather to perform communal prayers?",
+        "options": ["Eid al-Adha (عید الاضحی)", "Mawlid al-Nabi (مولد النبی)", "Laylat al-Qadr (لیلة القدر)", "Eid prayers (صلاة العید)"],
+        "correct_option": "Eid prayers (صلاة العید)"
+    },
+    {
+        "question": "Which holiday marks the end of the Hajj pilgrimage?",
+        "options": ["Eid al-Fitr (عید الفطر)", "Mawlid al-Nabi (مولد النبی)", "Laylat al-Qadr (لیلة القدر)", "Eid al-Adha (عید الاضحی)"],
+        "correct_option": "Eid al-Adha (عید الاضحی)"
+    },
+    {
+        "question": "Which holiday is celebrated at the completion of the Quran?",
+        "options": ["Eid al-Adha (عید الاضحی)", "Mawlid al-Nabi (مولد النبی)", "Laylat al-Qadr (لیلة القدر)", "Eid al-Fitr (عید الفطر)"],
+        "correct_option": "Eid al-Fitr (عید الفطر)"
+    }
+]
